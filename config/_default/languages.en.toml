@@ -21,7 +21,7 @@ title = "Blowfish"
 #   imageQuality = 96
    headline = "Just some guy who programs and writes things"
    bio = "Heyo, I'm Vortigern! A high school student living in NZ who loves Programming, Minecraft and some other stuff."
-#   links = [
+   links = [
 #     { email = "mailto:hello@your_domain.com" },
 #     { link = "https://link-to-some-website.com/" },
 #     { amazon = "https://www.amazon.com/hz/wishlist/ls/wishlist-id" },
@@ -73,4 +73,4 @@ title = "Blowfish"
 #     { youtube = "https://youtube.com/username" },
 #     { ko-fi = "https://ko-fi.com/username" },
 #     { codeberg = "https://codeberg.org/username"},
-#   ]
+]
