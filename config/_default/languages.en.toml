@@ -14,13 +14,13 @@ title = "Blowfish"
   # description = "My awesome website"
   # copyright = "Copy, _right?_ :thinking_face:"
 
-# [params.author]
-#   name = "Your name here"
+[params.author]
+   name = "Vortigern"
 #   email = "youremail@example.com"
-#   image = "img/blowfish_logo.png"
+   image = "img/pfp.jpg"
 #   imageQuality = 96
-#   headline = "I'm only human"
-#   bio = "A little bit about you"
+   headline = "Just some guy who programs and writes things"
+   bio = "Heyo, I'm Vortigern! A high school student living in NZ who loves Programming, Minecraft and some other stuff."
 #   links = [
 #     { email = "mailto:hello@your_domain.com" },
 #     { link = "https://link-to-some-website.com/" },
@@ -35,7 +35,7 @@ title = "Blowfish"
 #     { facebook = "https://facebook.com/username" },
 #     { flickr = "https://www.flickr.com/photos/username/" },
 #     { foursquare = "https://foursquare.com/username" },
-#     { github = "https://github.com/username" },
+     { github = "https://github.com/Vortigern-The-Grey" },
 #     { gitlab = "https://gitlab.com/username" },
 #     { google = "https://www.google.com/" },
 #     { hashnode = "https://username.hashnode.dev" },
